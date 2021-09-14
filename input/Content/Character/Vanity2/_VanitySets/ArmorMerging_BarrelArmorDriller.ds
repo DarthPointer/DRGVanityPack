@@ -1,6 +1,6 @@
 File VanitySet_Driller.uasset
 Name -a /Game/Character/Vanity2/Armor/Paintjobs_ArmorDefaults/VAN_ArmorMat_BarrelArmorDriller_Default
-Name a VAN_ArmorMat_BarrelArmorDriller_Default
+Name -a VAN_ArmorMat_BarrelArmorDriller_Default
 Name -a /Game/Character/Vanity2/Armor/VAN_BarrelArmorDriller
 Name -a VAN_BarrelArmorDriller
 Import -a /Script/CoreUObject Package -i 0 /Game/Character/Vanity2/Armor/Paintjobs_ArmorDefaults/VAN_ArmorMat_BarrelArmorDriller_Default 0

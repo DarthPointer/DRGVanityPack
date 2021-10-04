@@ -14,3 +14,4 @@
 .\HeadwearMerging_FridgeHelmet.ds
 .\HeadwearMerging_GhastlyGibus.ds
 .\HeadwearMerging_MandoHelmet.ds
+.\HeadwearMerging_HuntingHat.ds

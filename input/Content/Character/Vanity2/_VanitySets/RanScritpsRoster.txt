@@ -15,3 +15,7 @@
 .\HeadwearMerging_GhastlyGibus.ds
 .\HeadwearMerging_MandoHelmet.ds
 .\HeadwearMerging_HuntingHat.ds
+.\HeadwearMerging_hwndoretta.ds
+.\HeadwearMerging_hwnskull.ds
+.\HeadwearMerging_tf2headsplitter.ds
+.\HeadwearMerging_tf2jason.ds

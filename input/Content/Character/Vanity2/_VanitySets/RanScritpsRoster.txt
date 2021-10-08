@@ -19,3 +19,4 @@
 .\HeadwearMerging_hwnskull.ds
 .\HeadwearMerging_tf2headsplitter.ds
 .\HeadwearMerging_tf2jason.ds
+.\HeadwearMerging_MJHat.ds

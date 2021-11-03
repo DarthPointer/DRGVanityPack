@@ -52,3 +52,4 @@
 .\HeadwearMerging_SoldierHelmet.ds
 .\HeadwearMerging_SoldierRedHelmet.ds
 .\HeadwearMerging_WaluigiCap.ds
+.\EyebrowsMerging_NoEyebrows.ds

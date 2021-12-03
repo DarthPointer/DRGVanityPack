@@ -67,3 +67,15 @@
 .\HeadwearMerging_pd2hoxton.ds
 .\HeadwearMerging_pd2wolf.ds
 .\HeadwearMerging_thanksturkey.ds
+.\ArmorMerging_ArmorDriller001.ds
+.\ArmorMerging_ArmorDrillerOld002.ds
+.\ArmorMerging_ArmorEngineer001.ds
+.\ArmorMerging_ArmorEngineer002.ds
+.\ArmorMerging_ArmorGunner001.ds
+.\ArmorMerging_ArmorGunner002.ds
+.\ArmorMerging_ArmorScout001.ds
+.\ArmorMerging_ArmorScout002.ds
+.\EyebrowsMerging_NeonPartyGlasses.ds
+.\HeadwearMerging_BrainBucket.ds
+.\HeadwearMerging_HolidayHeadcaseBlue.ds
+.\HeadwearMerging_HolidayHeadcaseRed.ds
